@@ -60,3 +60,4 @@ License
  [7]: https://travis-ci.org/JakeWharton/ActionBarSherlock
 
 !added to check scm polling
+!final polling check
